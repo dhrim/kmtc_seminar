@@ -9,14 +9,13 @@
       - python 으로 무엇을 할 수 있을까?
       - 자료
         - [고려해운_python](https://docs.google.com/presentation/d/11yR2zrvGBZ5BVNLXVD0tuW4Awpxo9YnrVWfvUW6AD9o/edit?usp=sharing)
-        - [python1.ipynb](python1.ipynb)
+        - [python_intro.ipynb](python_intro.ipynb)
   - Day 2
       - python 프로그래밍의 기초
       - python의 자료형
       - python의 제어문
       - 자료
-        - [python2.ipynb](python2.ipynb)
-        - [python3.ipynb](python3.ipynb)
+        - [python_intro.ipynb](python_intro.ipynb)
  -  Day 3
       - python library 이해
       - pandas library 기초
