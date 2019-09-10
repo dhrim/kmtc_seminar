@@ -21,18 +21,20 @@
     - 자료
         - [python_intro.ipynb](python_intro.ipynb)
 - Day 4
-    - 반복문
-    - 자료형 list, dict
+    - 함수 복습
+    - 반복문 - for
     - 자료
         - [python_intro.ipynb](python_intro.ipynb)
 - Day 5
+    - 자료형 list, dict
+    - 반복문 - while
     - 파일 입출력
+    - 자료
+        - [python_intro.ipynb](python_intro.ipynb)
+- Day 6
     - 2차원 list
     - csv 데이터 로딩과 처리
-- Day 6
-    - pandas
 - Day 7
-    - 인터넷에서 주식 데이터 긁어 오기 (크롤링)
-    - 주식 데이터 처리
+    - pandas
 - Day 8
     - 주식 데이터 처리
