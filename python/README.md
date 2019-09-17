@@ -32,9 +32,11 @@
     - 자료
         - [python_intro.ipynb](python_intro.ipynb)
 - Day 6
-    - 2차원 list
-    - csv 데이터 로딩과 처리
+    - 자료형 dict
+    - 파일 입출력
+    - 자료
+        - [python_intro.ipynb](python_intro.ipynb)
 - Day 7
-    - pandas
+    - 2차원 list
 - Day 8
-    - 주식 데이터 처리
+    - csv 데이터 로딩과 처리
