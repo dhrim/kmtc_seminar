@@ -10,7 +10,7 @@
     - 자료
         - [고려해운_python](https://docs.google.com/presentation/d/11yR2zrvGBZ5BVNLXVD0tuW4Awpxo9YnrVWfvUW6AD9o/edit?usp=sharing)
         - [python_intro.ipynb](python_intro.ipynb)
-        - [실습내용_1차.ipynb](실습내용_1차.ipynb)
+        - [실습내용_1차.ipynb](실습내용_1차.ipynb)
 - Day 2
     - python 프로그래밍의 기초
     - 제어문
@@ -21,26 +21,33 @@
     - Day 1, Day 2 복습
     - 자료
         - [python_intro.ipynb](python_intro.ipynb)
-        - [실습내용_3차.ipynb](실습내용_3차.ipynb)
+        - [실습내용_3차.ipynb](실습내용_3차.ipynb)
 - Day 4
     - 함수 복습
     - 반복문 - for
     - 자료
         - [python_intro.ipynb](python_intro.ipynb)
-        - [실습내용_4차.ipynb](실습내용_4차.ipynb)
+        - [실습내용_4차.ipynb](실습내용_4차.ipynb)
 - Day 5
     - 자료형 list, dict
     - 반복문 - while
     - 파일 입출력
     - 자료
         - [python_intro.ipynb](python_intro.ipynb)
-        - [실습내용_5차.ipynb](실습내용_5차.ipynb)
+        - [실습내용_5차.ipynb](실습내용_5차.ipynb)
 - Day 6
+    - 자료형 dict
+    - 자료
+        - [python_intro.ipynb](python_intro.ipynb)
+        - [실습내용_6차.ipynb](실습내용_6차.ipynb)
+- Day 7
     - 자료형 dict
     - 파일 입출력
     - 자료
-        - [python_intro.ipynb](python_intro.ipynb)
-- Day 7
-    - 2차원 list
+        - [실습내용_7차.ipynb](실습내용_7차.ipynb)
+- 보강
+    - 자료 :
+        - [보강.ipynb](보강.ipynb)
 - Day 8
-    - csv 데이터 로딩과 처리
+    - wrapup
+    - 시험
