@@ -52,3 +52,5 @@
 - Day 8
     - wrapup : [python_wrapup.ipynb](python_wrapup.ipynb)
     - 시험
+        - [python_intro_test.ipynb](python_intro_test.ipynb)
+        - [python_intro_test.pdf](python_intro_test.pdf)
