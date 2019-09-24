@@ -50,5 +50,5 @@
         - [보강.ipynb](보강.ipynb) or [colab 페이지](https://colab.research.google.com/drive/1nQTcTRLlDvzQsgoPEBhoTVhntY_RMHRl)
         - [실습내용_보강.ipynb](실습내용_보강.ipynb) or [colab 페이지](https://colab.research.google.com/drive/1ZBZv2dTg0oZ2LSCItPY8a7GCNa8HYmUs)
 - Day 8
-    - wrapup
+    - wrapup : [python_wrapup.ipynb](python_wrapup.ipynb)
     - 시험
